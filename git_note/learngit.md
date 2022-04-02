@@ -65,4 +65,8 @@
 
 ### 查看历史版本
 - git reflog
-- 
+
+### 撤销修改
+- git restore 文件名
+> add后，restore回到工作区；commit后，restore回到暂存区。
+
